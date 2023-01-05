@@ -54,4 +54,6 @@
 ![Camtasia](https://img.shields.io/badge/-Camtasia-000?&logo=Camtasia&style=flat-square)
 ![Udemy](https://img.shields.io/badge/-Udemy-000?&logo=Udemy&style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&style=flat-square)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket&style=flat-square)
 
