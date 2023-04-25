@@ -8,7 +8,7 @@
 
 💬 Ask me about anything, I'm always happy to help.
 
-📫 How to reach me: me at thomaswiesner.com
+📫 How to reach me: me at [thomaswiesner.com](https://thomaswiesner.com)
 
 ⚡ Fun fact: The best place in the world to see rainbows is in Hawaii. But I have never been there.
 
