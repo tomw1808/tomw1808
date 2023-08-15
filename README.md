@@ -4,7 +4,7 @@
  - [Morpher.com](https://morpher.com)
  - [Blockchain Courses](https://ethereum-blockchain-developer.com)
 
-🌱 I’m currently learning NextJS, Tailwind and Framer-Motion. I am a big fan of Vercels previews. Trying to bring them into my workflow with AWS CodePipeline and ECS.
+🌱 I’m currently learning Cloudformation in a special way: Building preview environments that clone production: RDS, ECS, Codepipelines with multi-arch builds, Fargate/Spot with EC2 in the mix, and many more. DevOps is exciting. I just learned NextJS, Tailwind and Framer-Motion. I am a big fan of Vercels previews. I am actively trying to bring them into my workflow with AWS CodePipeline and ECS.
 
 💬 Ask me about anything, I'm always happy to help.
 
