@@ -4,12 +4,18 @@
  - [Morpher.com](https://morpher.com)
  - [Blockchain Courses](https://ethereum-blockchain-developer.com)
 
-# 2024 - RAG+LLMs, (Swing) Trading
-I started toying around with RAG+LLMs. My Masters Thesis included a lot of text processing, whic comes in handy. I am currently playing with Jan.ai, Nitro and many more or less off-the-shelf products to summarize daily news to get actionale bullet points. I am also trying to get into Swing Trading. I always did trade based on fundamental news, but never tried to get entries and exits right. Currently reading Bob Volman -  Understanding Price Action.
+# 2024 - RAG+LLMs, Account Abstraction, (Swing) Trading
+I started toying around with RAG+LLMs. My Masters Thesis included a lot of text processing, which comes in handy. I am currently playing with Jan.ai, Nitro and many more or less off-the-shelf products to summarize daily news to get actionale bullet points. 
+
+I am also trying to get into Swing Trading. I always did trade based on fundamental news, but never tried to get entries and exits right. Currently reading Bob Volman -  Understanding Price Action.
+
+I also finally read up on ERC4337 - Account Abstraction and made a [litte video](https://youtu.be/v_V4Wqcn7vE) about it. 
 
 # 2023 - CloudFormation, NextJS
 2023 was a big year for me. I finally got to fully learn Infrastructure as Code. The Morpher Infrastructure is now fully coded in yml files. 
+
 Furthermore, I was trying to use Cloudformation in a special way: Building preview environments that clone production: RDS, ECS, Codepipelines with multi-arch builds, Fargate/Spot with EC2 in the mix, and many more. I am a big fan of Vercels previews. I am actively trying to bring them into my workflow with AWS CodePipeline and ECS.
+
 I also started to use NextJS, Tailwind and Framer-Motion. I like those animations a lot.
 
 💬 Ask me about anything, I'm always happy to help.
