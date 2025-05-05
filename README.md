@@ -4,6 +4,18 @@
  - [Morpher.com](https://morpher.com)
  - [Blockchain Courses](https://ethereum-blockchain-developer.com)
 
+# 2025 - More Blockchains, Markdown, Education and tools
+
+It's May 2025 and the year is in full swing. I was so busy that I didn't find the time to update this brief overview, but that's changing right now. So what have we achieved so far?
+
+A long standing issue of my learning platform ethereum-blockchain-developer.com was that its built on MkDocs-Material. It's awesome, but static. I am long time contemplating migrating it to nextjs, but its about 300 pages with very distinct syntax and features. That's why I started building a drop-in replacement in Nextjs: https://mkdocs-shadcn.org - However, at the end I decided to semi-abandon this project for nextra4. I am therefore focusing my efforts into making nextra4 a breeze to use including a [migration drop-in replacement script](https://www.mkdocs-shadcn.org/blog/20250420)
+
+I am very busy working on a new kind of Stablecoin that balances algorithmic on-chain properties and hard off-chain promises. More on that a bit later.
+
+We moved Morpher from our proprietary plasma sidechain to Base. Quite an undertaking.
+
+In honor of the old Truffle Dashboard I sat down one weekend and coded an [alternative Foundry-Dashboard](https://www.npmjs.com/package/foundry-dashboard) that even decodes the transactions based on the ABI from the Foundry Build-Artifacts.
+
 # 2024 - RAG+LLMs, Account Abstraction, (Swing) Trading
 I started toying around with RAG+LLMs. My Masters Thesis included a lot of text processing, which comes in handy. I am currently playing with Jan.ai, Nitro and many more or less off-the-shelf products to summarize daily news to get actionale bullet points. 
 
