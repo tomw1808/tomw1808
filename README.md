@@ -1,8 +1,24 @@
 ### Hi there 👋
 
+I'm Thomas, a hands-on CTO for regulated fintech in Europe. More on [thomaswiesner.com](https://thomaswiesner.com).
+
 🔭 I’m currently working on
- - [Morpher.com](https://morpher.com)
+ - [Assetera](https://assetera.com) as CTO: a MiFID II licensed investment firm for tokenized securities
+ - [flash-agents](https://github.com/tomw1808/flash-agents): let Claude Code steer while cheap workers do the typing
+ - [PrivateGoat](https://privategoat.app): a local-first meeting and Jira assistant for macOS
  - [Blockchain Courses](https://ethereum-blockchain-developer.com)
+
+# 2026 - Regulated Fintech, Azure, and AI-native Engineering
+
+It's October 2026, and the last four months were the most intense of my career.
+
+In June I became CTO of [Assetera](https://assetera.com), a European investment firm licensed under MiFID II. In four months we rebuilt the complete stack: about 15 TypeScript services, six Next.js frontends, Keycloak for identity, KYC and compliance built into the product, and on-chain settlement of tokenized stocks on four chains. After years on AWS and CloudFormation, I moved a whole Azure estate into OpenTofu with keyless deploys, and wrote 44 architecture decision records along the way. DORA and MiFID II are now part of my daily vocabulary. I wrote the method down as an [execution playbook](https://thomaswiesner.com/playbook).
+
+I merged more than 950 of my own pull requests in that time. That only works with AI agents doing the reading and the typing while I keep the architecture and review every diff. Out of that came [flash-agents](https://github.com/tomw1808/flash-agents), a Claude Code plugin that hands bounded tasks to a much cheaper model, runs each job in a disposable copy of the repo, and gives back a git patch instead of a story.
+
+I also sit in a lot of meetings now. So I built [PrivateGoat](https://privategoat.app), a native macOS app that records and transcribes calls on the Mac with whisper.cpp, summarises them with a local model, and turns action items into Jira tasks. Your meeting audio never leaves the machine. It's a free beta via Homebrew.
+
+After six years as CTO, I left Morpher in May 2026. Permissionless, the stablecoin project with the post-quantum privacy layer, is on ice for now. I'm still a co-founder.
 
 # 2025 - More Blockchains, Markdown, Education and tools
 
